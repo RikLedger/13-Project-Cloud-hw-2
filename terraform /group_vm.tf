@@ -25,7 +25,7 @@ variable "boot_disk" {
     default = [ {
     size = 10
     type = "network-hdd"
-    image_id = "fd827b91d88psvq5fjit"
+    image_id = "fd827b91d99psvq5fjit"
   }]
 }
 
